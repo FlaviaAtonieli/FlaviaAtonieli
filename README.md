@@ -1,4 +1,4 @@
-# 👩‍💻 Flavia Souza — Graphic Designer & Software Engineering Student
+# 👩‍💻 Graphic Designer & Software Engineering Student
 
 ## 💫 About Me
 - Graphic Designer with experience in visual creation and communication.
