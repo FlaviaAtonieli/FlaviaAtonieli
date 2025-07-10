@@ -1,17 +1,17 @@
-# 👩‍💻 Graphic Designer & Software Engineering Student
+# 👩‍💻 Designer Gráfico & Engenheira de Software em formação
 
 ## 💫 About Me
-- Graphic Designer with experience in visual creation and communication.
-- Software Engineering student focused on web development.
-- Creative, communicative, and dedicated to continuous learning.
+- Designer Gráfico com experiência em criação visual e comunicação.
+- Estudante de Engenharia de Software focada em desenvolvimento web.
+- Criativa, comunicativa e dedicada ao aprendizado contínuo.
 
-## 🌐 Socials
+## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/flavia_antonieli) <br> [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souza.flaviaantonieli@gmail.com) <br>[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FlaviaAntonielideSouza) 
 
 ## 🎯 Professional Objective
-Seeking opportunities that combine design and development to create innovative and high-quality digital solutions.
+Busco oportunidades que integrem design e desenvolvimento para criar soluções digitais inovadoras e de alta qualidade.
 
-# 💻 Tech Stack
+# 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -32,18 +32,18 @@ Seeking opportunities that combine design and development to create innovative a
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230094FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23009688?style=for-the-badge&logo=trello&logoColor=white)
-![C4 Model](https://img.shields.io/badge/C4%20Model-Architecture%20Modeling-%230078D4?style=for-the-badge&logo=data&logoColor=white)
+![C4 Model](https://img.shields.io/badge/C4%20Model-Modelagem%20de%20Arquitetura-%230078D4?style=for-the-badge&logo=data&logoColor=white)
 
 ## 💡 Soft Skills
-- Effective communication  
-- Teamwork  
-- Time management  
-- Problem solving  
+- Comunicação eficaz  
+- Trabalho em equipe  
+- Gestão de tempo  
+- Resolução de problemas  
 
 ## 🎉 Fun Fact
 
-- I’m passionate about **Formula 1** and love following the exciting races throughout the season.  
-- My favorite movie is **The Hobbit**, and I’m also a fan of **The Lord of the Rings** — my precious!  
+- Sou apaixonada por **Fórmula 1** e adoro acompanhar as corridas emocionantes da temporada.  
+- Meu filme preferido é **The Hobbit**, e também sou fã de **O Senhor dos Anéis** — Meu precioso!  
 
-# 📊 GitHub Stats
+# 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaAtonieli&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
