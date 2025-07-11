@@ -24,6 +24,7 @@ Busco oportunidades que integrem design e desenvolvimento para criar soluções 
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=atlassian&logoColor=white)
+[![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/EXEMPLODOQUADRO)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00B388?style=for-the-badge&logo=coreldraw&logoColor=white)
 ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Marketing](https://img.shields.io/badge/Marketing-%23FF6F61?style=for-the-badge&logo=megaport&logoColor=white)
