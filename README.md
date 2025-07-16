@@ -12,9 +12,11 @@
 Busco oportunidades que integrem design e desenvolvimento para criar soluções digitais inovadoras e de alta qualidade.
 
 # 💻 Tech Stack:
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
+[![Progress 4GL](https://img.shields.io/badge/Progress%204GL-%23007ABC?style=for-the-badge&logoColor=white)](https://docs.progress.com/)
+[![React](https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org/)
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/Angular-%23DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-%23646CFF?style=for-the-badge&logo=vite&logoColor=white)
@@ -26,10 +28,7 @@ Busco oportunidades que integrem design e desenvolvimento para criar soluções 
 ![Jira](https://img.shields.io/badge/Jira-%230A0FFF?style=for-the-badge&logo=atlassian&logoColor=white)
 [![Trello](https://img.shields.io/badge/Trello-%23026AA7?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/b/EXEMPLODOQUADRO)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-00B388?style=for-the-badge&logo=coreldraw&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Marketing](https://img.shields.io/badge/Marketing-%23FF6F61?style=for-the-badge&logo=megaport&logoColor=white)
-![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF?style=for-the-badge&logo=adobepremierepro&logoColor=white)
 ![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-%230094FF?style=for-the-badge&logo=scrumalliance&logoColor=white)
 ![Kanban](https://img.shields.io/badge/Kanban-%23009688?style=for-the-badge&logo=trello&logoColor=white)
