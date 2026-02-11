@@ -1,4 +1,4 @@
-# 👩‍💻 Designer Gráfico & Engenheira de Software em formação
+# 👩‍💻 Engenheira de Software 
 
 ## 💫 About Me
 - Designer Gráfico com experiência em criação visual e comunicação.
